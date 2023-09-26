@@ -5,7 +5,7 @@
 - pip install -r requirements.txt
 
 ## run
-python run pong.py
+python pong.py
 
 ## credits
 https://www.geeksforgeeks.org/create-pong-game-using-python-turtle/
